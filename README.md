@@ -10,6 +10,6 @@
 
 - This little game was made just as a way for me to learn the logic of react.
 
-### Diego Valois
+#### Diego Valois
 
-Website Url: (https://diegovalois.github.io/react-tutorial/)
+- Website Url: (https://diegovalois.github.io/react-tutorial/)
